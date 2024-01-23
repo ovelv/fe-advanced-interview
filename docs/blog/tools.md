@@ -97,4 +97,5 @@ the sass playbook
 * [indiehackers](https://www.indiehackers.com/)
 * [独立开发展示页startups.fyi](https://www.startups.fyi/)
 * [硬地骇客博客](https://hardhacker.com/)
+* [独立开发前线](https://91wink.com)
 * 需要运营和推广的：Twitter, Youtube, Reddit, Hacker News、V2EX、ProductHunt 
